@@ -1,6 +1,6 @@
 ### Hi I'm BunnY Boom👋
 
-  <img src="https://media.giphy.com/embed/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+  <img src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO" width="100"/>
 
 
 <!--
