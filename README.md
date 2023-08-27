@@ -1,7 +1,5 @@
 ### Hi I'm BunnY Boom👋
 
-  <img src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO" width="100"/>
-
 
 <!--
 **DefF3ii/DefF3ii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
